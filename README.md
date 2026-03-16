@@ -61,7 +61,3 @@ pendulum-chaos/
 - Fractal dimension decreases from 1.42 (N=2) to 1.06 (N=8)
 - 99.6% of initial conditions lead to chaos at N=2
 - Damping of b≥0.5 completely eliminates chaos
-
-
-git commit -m "docs: add README with setup and run instructions"
-git push
